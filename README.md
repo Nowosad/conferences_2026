@@ -6,6 +6,7 @@
 ### Europe
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
+  - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
 
 ## Local
 
