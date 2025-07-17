@@ -14,3 +14,5 @@
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
 - [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
+- [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
+- [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
