@@ -3,6 +3,10 @@
 
 ## International
 
+### Asia
+
+  - FOSS4G Asia 2026, https://foss4g.asia/2026/, Nashik, 21--25 January 2026
+
 ### Europe
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
