@@ -17,6 +17,11 @@
 
 ## Local
 
+### DACH (Germany, Austria, Switzerland)
+
+- FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
+- AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
+
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
