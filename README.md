@@ -13,7 +13,8 @@
   - GISRUK, https://2025.gisruk.org/, Birmingham, TBD
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
-  - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, Monday, 6--9 July 2026
+  - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
+  - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
 
 ## Local
 
