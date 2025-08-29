@@ -6,6 +6,7 @@
 ### Asia
 
   - FOSS4G Asia 2026, https://foss4g.asia/2026/, Nashik, 21--25 January 2026
+  - FOSS4G 2026, (no website yet?), Hiroshima, 30 August--5 September 2026
 
 ### Europe
 
