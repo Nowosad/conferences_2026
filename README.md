@@ -21,6 +21,9 @@
 check later:
 - https://ml4eo.org/
 -->
+<!--
+🌍3D GeoInfo | Next year: Sofia, Bulgaria!
+-->
 
 ## Local
 
