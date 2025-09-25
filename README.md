@@ -1,6 +1,7 @@
 
 # Geospatial Conferences 2026
 
+
 ## International
 
 ### Asia
@@ -21,13 +22,28 @@
 check later:
 - https://ml4eo.org/
 -->
+
+
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
+
+
+
 -->
+
+### North America
+
+  - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
+
+
 
 ## Local
 
 ### DACH (Germany, Austria, Switzerland)
+
+
+
+
 
 - FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
 - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
@@ -35,7 +51,20 @@ check later:
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
+
 - [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
+
+
+
+
+
+
+
+
+
+
+
+
