@@ -1,8 +1,6 @@
 
 # Geospatial Conferences 2026
 
-
-
 ## International
 
 ### Asia
@@ -14,15 +12,20 @@
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - GISRUK, https://2025.gisruk.org/, Birmingham, TBD
+  - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
+  - XXVth ISPRS Congress, https://www.isprs.org/society/congress.aspx, Toronto, 4--11 July 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
+  - 2026 IEEE International Geoscience and Remote Sensing Symposium, https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
 
 <!--
 check later:
 - https://ml4eo.org/
 -->
+
+
 
 
 
@@ -33,7 +36,14 @@ check later:
 
 
 
+
+
+
+
 -->
+
+
+
 
 
 
@@ -65,6 +75,20 @@ check later:
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
