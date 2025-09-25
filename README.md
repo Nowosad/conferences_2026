@@ -2,6 +2,7 @@
 # Geospatial Conferences 2026
 
 
+
 ## International
 
 ### Asia
@@ -24,15 +25,22 @@ check later:
 -->
 
 
+
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
 
 
 
+
+
 -->
+
+
+
 
 ### North America
 
+  - SKI Canada 2026, https://skiconference.ca/2026/, Banff, 19--22 February 2026
   - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
 
 
@@ -40,6 +48,7 @@ check later:
 ## Local
 
 ### DACH (Germany, Austria, Switzerland)
+
 
 
 
@@ -56,6 +65,23 @@ check later:
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
