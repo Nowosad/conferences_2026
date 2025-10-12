@@ -23,7 +23,7 @@
 
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
-FOSS4G Europe 2026
+FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 -->
 
 ### North America
