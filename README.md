@@ -11,6 +11,7 @@
 ### Europe
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
+  - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
   - GISRUK, https://2025.gisruk.org/, Birmingham, TBD
   - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
