@@ -21,7 +21,6 @@
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
   - XXVth ISPRS Congress, https://www.isprs.org/society/congress.aspx, Toronto, 4--11 July 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
-  - 2026 IEEE International Geoscience and Remote Sensing Symposium, https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
 
 <!--
@@ -39,6 +38,7 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 
   - SKI Canada 2026, https://skiconference.ca/2026/, Banff, 19--22 February 2026
   - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
+  - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
 
 ## Local
 
