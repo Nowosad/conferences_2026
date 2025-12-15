@@ -12,7 +12,7 @@
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
-  - GISRUK, https://2025.gisruk.org/, Birmingham, TBD
+  - GISRUK, https://gisruk.org/gisruk-2026/, Birmingham, 14-17 April 2026
   - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
@@ -41,6 +41,7 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
   - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
   - State of the Map US, https://openstreetmap.us/events/state-of-the-map-us/2026/, Madison, 11–-13 June 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
+  - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - FOSS4G North America 2026, TBD
 
 ## Local
