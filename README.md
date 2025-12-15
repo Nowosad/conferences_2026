@@ -36,8 +36,10 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 
 ### North America
 
+  - MappingUSA 2026, https://openstreetmap.us/events/mapping-usa/2026/, Online, 30--21 January 2026
   - SKI Canada 2026, https://skiconference.ca/2026/, Banff, 19--22 February 2026
   - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
+  - State of the Map US, https://openstreetmap.us/events/state-of-the-map-us/2026/, Madison, 11–-13 June 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
 
 ## Local
