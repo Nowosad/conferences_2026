@@ -1,6 +1,5 @@
 # Geospatial Conferences 2026
 
-
 ## International
 
 ### Asia
@@ -12,6 +11,7 @@
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
+  - GeoFutures Workshop, https://www.cartography.org.uk/geofutures, London, 25 March 2026
   - GISRUK, https://gisruk.org/gisruk-2026/, Birmingham, 14-17 April 2026
   - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
@@ -26,14 +26,8 @@
 
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
-
 FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
-
-
 -->
-
-
-
 
 ### North America
 
@@ -41,6 +35,7 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
   - SKI Canada 2026, https://skiconference.ca/2026/, Banff, 19--22 February 2026
   - ForestSAT2026, https://carlos-alberto-silva.github.io/silvalab/ForestSAT2026/index.html, Gainesville, 4--8 May 2026
   - State of the Map US, https://openstreetmap.us/events/state-of-the-map-us/2026/, Madison, 11–-13 June 2026
+  - SCGIS 2025, https://www.scgis.org/conference, Estes Park Center, 7--10 July 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - FOSS4G North America 2026, TBD
@@ -48,8 +43,6 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 ## Local
 
 ### DACH (Germany, Austria, Switzerland)
-
-
 
 - FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
 - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
@@ -61,21 +54,6 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
