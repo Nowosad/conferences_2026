@@ -1,5 +1,7 @@
 # Geospatial Conferences 2026
 
+Unless otherwise noted, conferences are in English.
+
 ## Asia
 
   - FOSS4G Asia 2026, https://foss4g.asia/2026/, Nashik, 21--25 January 2026
@@ -27,9 +29,9 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 
 ### DACH (Germany, Austria, Switzerland)
 
-- FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
 - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
 - GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
+- **(German)** FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
 
 ## North America
 
