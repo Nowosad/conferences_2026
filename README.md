@@ -1,13 +1,11 @@
 # Geospatial Conferences 2026
 
-## International
-
-### Asia
+## Asia
 
   - FOSS4G Asia 2026, https://foss4g.asia/2026/, Nashik, 21--25 January 2026
   - FOSS4G 2026, (no website yet?), Hiroshima, 30 August--5 September 2026
 
-### Europe
+## Europe
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
@@ -17,10 +15,8 @@
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
-  - GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
-  - XXVth ISPRS Congress, https://www.isprs.org/society/congress.aspx, Toronto, 4--11 July 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
 
@@ -29,7 +25,13 @@
 FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 -->
 
-### North America
+### DACH (Germany, Austria, Switzerland)
+
+- FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
+- AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
+- GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
+
+## North America
 
   - MappingUSA 2026, https://openstreetmap.us/events/mapping-usa/2026/, Online, 30--21 January 2026
   - SKI Canada 2026, https://skiconference.ca/2026/, Banff, 19--22 February 2026
@@ -39,13 +41,7 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - FOSS4G North America 2026, TBD
-
-## Local
-
-### DACH (Germany, Austria, Switzerland)
-
-- FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
-- AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
+  - XXVth ISPRS Congress, https://www.isprs.org/society/congress.aspx, Toronto, 4--11 July 2026
 
 ## Similar lists
 
