@@ -1,6 +1,6 @@
 # Geospatial Conferences 2026
 
-Unless otherwise noted, conferences are in English.
+*Unless otherwise noted, conferences are in English.*
 
 ## Asia
 
