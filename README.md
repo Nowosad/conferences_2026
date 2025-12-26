@@ -22,6 +22,7 @@
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
+  - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
 
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
