@@ -44,6 +44,7 @@ FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
   - State of the Map US, https://openstreetmap.us/events/state-of-the-map-us/2026/, Madison, 11–-13 June 2026
   - XXVth ISPRS Congress, https://www.isprs.org/society/congress.aspx, Toronto, 4--11 July 2026
   - SCGIS 2025, https://www.scgis.org/conference, Estes Park Center, 7--10 July 2026
+  - Time Geography and Geography in Time, Toronto, 7--11 July 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - FOSS4G North America 2026, TBD
