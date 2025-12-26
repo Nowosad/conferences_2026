@@ -17,7 +17,7 @@
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
-  - 13th International Workshop on Advances in the Science and Applications of SAR Interferometry, https://fringe2026.esa.int/, 15--19 June 2026
+  - 13th International Workshop on Advances in the Science and Applications of SAR Interferometry, https://fringe2026.esa.int/, Kraków, 15--19 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
