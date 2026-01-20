@@ -12,15 +12,19 @@
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
   - GeoFutures Workshop, https://www.cartography.org.uk/geofutures, London, 25 March 2026
+  - **(German)** FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
   - GISRUK, https://gisruk.org/gisruk-2026/, Birmingham, 14-17 April 2026
   - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
+  - GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
+  - EUSAR 2026, https://www.eusar.de/en, Baden, 8--11 June 2026
   - 13th International Workshop on Advances in the Science and Applications of SAR Interferometry, https://fringe2026.esa.int/, Kraków, 15--19 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
+  - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
 
@@ -28,14 +32,6 @@
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
 FOSS4G Europe 2026, https://2026.europe.foss4g.org/,
 -->
-
-### DACH (Germany, Austria, Switzerland)
-
-- **(German)** FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
-- GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
-- EUSAR 2026, https://www.eusar.de/en, Baden, 8--11 June 2026
-- AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
-
 
 ## North America
 
