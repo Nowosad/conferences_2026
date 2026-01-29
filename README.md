@@ -29,6 +29,7 @@
   - State of the Map 2026, https://2026.stateofthemap.org/, Paris, 28--30 August 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
+  - Open-Earth-Monitor Global Workshop 2026, https://earthmonitor.org/global-workshop-2026/, Barcelona, 7--9 October 2026
 
 <!--
 🌍3D GeoInfo | Next year: Sofia, Bulgaria!
