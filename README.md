@@ -11,6 +11,7 @@
 
   - GeoInno2026, https://www.geoinno2026.com/, Budapest, 26--30 January 2026
   - Geospatial devroom @ FOSDEM, https://fosdem.org/2026/schedule/track/geospatial/, Brussels, 31 January 2026
+  - **(German)** 17. Geofachtag des Netzwerk GIS Sachsen-Anhalt e. V, Dessau, 18 February 2026
   - GeoFutures Workshop, https://www.cartography.org.uk/geofutures, London, 25 March 2026
   - **(German)** FOSSGIS 2026, https://www.fossgis-konferenz.de/2026/, Göttingen, 25-–28 March 2026
   - GISRUK, https://gisruk.org/gisruk-2026/, Birmingham, 14-17 April 2026
