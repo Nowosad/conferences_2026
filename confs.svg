@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <g fill="none" stroke="currentColor" stroke-width="4">
+    <!-- calendar -->
+    <rect x="20" y="22" width="80" height="76" rx="6"></rect>
+    <line x1="20" y1="42" x2="100" y2="42"></line>
+    <!-- compass -->
+    <circle cx="60" cy="68" r="18"></circle>
+    <path d="M60 54l6 14-6 14-6-14z" fill="currentColor" stroke="none"></path>
+  </g>
+</svg>

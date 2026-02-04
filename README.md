@@ -1,5 +1,7 @@
 # Geospatial Conferences 2026
 
+![Geospatial Conferences logo](confs.svg)
+
 *Unless otherwise noted, conferences are in English.*
 
 ## Asia
@@ -56,7 +58,6 @@
 - [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
 - [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities
 - [Geomob events](https://thegeomob.com/events)
-
 
 
 
