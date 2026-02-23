@@ -49,6 +49,7 @@
   - Time Geography and Geography in Time, Toronto, 7--11 July 2026
   - 2026 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), https://2026.ieeeigarss.org/, Washington, 9--14 August 2026
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
+  - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
   - FOSS4G North America 2026, TBD
 
 ## Similar lists
