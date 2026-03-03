@@ -54,6 +54,9 @@
   - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
   - FOSS4G North America 2026, TBD
 
+## South America
+  - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, Brazil, 07-09 December 2026
+
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
