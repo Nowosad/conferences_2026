@@ -53,7 +53,7 @@
   - FOSS4G North America 2026, TBD
 
 ## South America
-  - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, 07-09 December 2026
+  - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, Brazil, 07-09 December 2026
 
 ## Similar lists
 
