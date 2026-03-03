@@ -29,8 +29,10 @@
   - FOSS4G Europe 2026, https://2026.europe.foss4g.org/, Timișoara, România, 29 June - 3 July 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
   - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
+  - 1st International Conference on Land Degradation and Restoration, https://landdegradationrestoration.eu/, Valencia, 20--26 July 2026
   - State of the Map 2026, https://2026.stateofthemap.org/, Paris, 28--30 August 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
+  - 45th EARSeL Symposium, https://athens2026.earsel.org/, Athens, 29 September--02 October 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
   - Open-Earth-Monitor Global Workshop 2026, https://earthmonitor.org/global-workshop-2026/, Barcelona, 7--9 October 2026
 
