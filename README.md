@@ -53,7 +53,10 @@
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
   - FOSS4G North America 2026, TBD
-
+  - 
+## Oceania
+  - 2026 Pacific Islands GIS & Remote Sensing User Conference, https://pgrsc.org/pacific-gis-rs-users-conference/, Suva, Fiji, 30 November--4 December 2026
+    
 ## South America
   - GEOINFO 2026, https://geoinfobr.github.io/, São José dos Campos, Brazil, 07-09 December 2026
 
