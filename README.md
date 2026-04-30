@@ -26,6 +26,7 @@
   - 13th International Workshop on Advances in the Science and Applications of SAR Interferometry, https://fringe2026.esa.int/, Kraków, 15--19 June 2026
   - The 29th AGILE Conference, https://agile-gi.eu/, Tartu, 16--19 June 2026
   - Machine Learning for Earth Observation Conference, https://ml4eo.org/, Exter, 22--24 June 2026
+  - **(Polish)** V Spotkanie Użytkowników QGIS, https://spotkanie.qgis.pl/, Łódź, 23--25 June 2026
   - FOSS4G Europe 2026, https://2026.europe.foss4g.org/, Timișoara, România, 29 June - 3 July 2026
   - UseR! 2026 Conference, https://www.r-project.org/conferences/, Warsaw, 6--9 July 2026
   - AGIT 2026, https://agit.at/en/, Salzburg, 8--9 July 2026
