@@ -20,6 +20,7 @@
   - EGU 2026, https://www.egu26.eu/, Vienna, 3--8 May 2026
   - EUROGEO Conference and Annual Meeting 2026, https://www.eurogeography.eu/, Tilburg, 21--23 May 2026
   - GeoAI 2026, https://geoaiconference.org/, Ghent, 3--5 June 2026
+  - Baltic Geospatial Information Technology Conference 2026, https://balticgitconf.eu/, Riga, 4 June 2026
   - Mobile Tartu 2026, https://mobiletartu.ut.ee/, Tartu, 8--10 June 2026
   - GeoPython 2026, https://2026.geopython.net/, Basel, 8--10 June 2026
   - EUSAR 2026, https://www.eusar.de/en, Baden, 8--11 June 2026
