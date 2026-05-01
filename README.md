@@ -37,7 +37,7 @@
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
   - 45th EARSeL Symposium, https://athens2026.earsel.org/, Athens, 29 September--02 October 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
-  - FOSS4g:UK 2026, https://uk.osgeo.org/foss4guk2026/, United Kingdom, 12-13 October 2026
+  - FOSS4g:UK 2026, https://uk.osgeo.org/foss4guk2026/, Leeds, 12-13 October 2026
   - Open-Earth-Monitor Global Workshop 2026, https://earthmonitor.org/global-workshop-2026/, Barcelona, 7--9 October 2026
 
 <!--
