@@ -60,6 +60,7 @@
   - FOSS4G North America 2026, TBD
 
 ## Oceania
+  - Advancing Earth Observations Forum, 2026, https://www.earthobsforum.org/, Hobart, Australia, 9--12 November 2026
   - 2026 Pacific Islands GIS & Remote Sensing User Conference, https://pgrsc.org/pacific-gis-rs-users-conference/, Suva, Fiji, 30 November--4 December 2026
 
 ## South America
