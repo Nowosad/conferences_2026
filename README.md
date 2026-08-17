@@ -35,6 +35,7 @@
   - 1st International Conference on Land Degradation and Restoration, https://landdegradationrestoration.eu/, Valencia, 20--26 July 2026
   - State of the Map 2026, https://2026.stateofthemap.org/, Paris, 28--30 August 2026
   - Spatial Data Science across Languages (SDSL) 2026, https://spatial-data-science.github.io/2026/, Jena, Germany, 16-17 (+18) September 2026
+  - Intergeo, https://dvw.de/intergeo/en/conference, Munich, 15--17 September 2026
   - The 17th Conference on Spatial Information Theory (COSIT), https://www.cosit2026.uk/, York, 22--25 September 2026
   - 45th EARSeL Symposium, https://athens2026.earsel.org/, Athens, 29 September--02 October 2026
   - QGIS conference 2026, https://conference.qgis.org, Switzerland, 5-6 October 2026
@@ -59,6 +60,8 @@
   - CaGIS Conference, https://cartogis.org/conferences/cagis2026/, St. Louis, 8--11 September 2026
   - 2026 Geo for Good Earth Engine Impact Partner Summit, https://earthoutreachonair.withgoogle.com/events/geoforgood26-map, Google Headquarters, Mountain View, CA, USA, 15--17 September 2026
   - CNG Forum 2026, https://2026.cloudnativegeo.org/, Snowbird, 6--9 October 2026
+  - NACIS 2026, https://nacis.org/annual-meeting/current-meeting/, Milwaukee, WI, USA, 21--24 October 2026
+  - NSGIC Annual Conference, https://nsgic.org/events/2026-nsgic-annual-conference/, Bozeman, MT, USA, 01--06 November 2026 
   - FOSS4G North America 2026, https://www.foss4gna.org/, Sacramento, CA, USA, 2--4 November 2026
 
 ## Oceania
