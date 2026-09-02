@@ -63,6 +63,7 @@
   - NACIS 2026, https://nacis.org/annual-meeting/current-meeting/, Milwaukee, WI, USA, 21--24 October 2026
   - NSGIC Annual Conference, https://nsgic.org/events/2026-nsgic-annual-conference/, Bozeman, MT, USA, 01--06 November 2026 
   - FOSS4G North America 2026, https://www.foss4gna.org/, Sacramento, CA, USA, 2--4 November 2026
+  - SatSummit 2026, https://satsummit.io/2026-st-louis, St. Louis 18--19 November 2026
 
 ## Oceania
   - Advancing Earth Observations Forum, 2026, https://www.earthobsforum.org/, Hobart, Australia, 9--12 November 2026
